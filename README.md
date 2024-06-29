@@ -82,14 +82,17 @@ Here are a few noteworthy projects I've worked on:
 Feel free to reach out to me via email at [aghyad.alghazawi@gmail.com](mailto:aghyad.alghazawi@gmail.com). I'm open to collaboration opportunities and always excited to discuss new projects.
 
 Let's connect and build something awesome together!
+
 <!--
 ## Support
 
 Every contribution helps me alot 😊 <br>
 [<img src="https://cdn.worldvectorlogo.com/logos/paypal-3.svg" alt="PayPal" width="100" height="100">](https://paypal.me/drdarkflames)
 -->
+
 ## Stats
-<div style="display:flex;">
+
+<div style="display:flex; flex-flow: column;">
     <img src="https://github-readme-stats.vercel.app/api?username=aghyad-alghazawi&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 100%;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aghyad-alghazawi&theme=midnight-purple&hide_border=true" alt="GitHub Streak" style=" width: 100%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aghyad-alghazawi&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Top Languages" style="width: 100%;">
