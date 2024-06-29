@@ -1,4 +1,4 @@
-![abstract-fluid-liquid](https://github.com/dr-dark-flames/dr-dark-flames/assets/12224035/1544ff9a-6e76-4eba-a56a-1d4b1df11402)
+![abstract-fluid-liquid](https://github.com/aghyad-alghazawi/aghyad-alghazawi/assets/173650924/7f94c4db-b900-4600-a621-d587d3047522)
 
 # [Aghyad - Software Engineer]()
 
@@ -24,13 +24,13 @@ Apart from my tech pursuits, I lead a varied lifestyle. You can find me engaging
 
 <p align="left">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-    <img src="https://github.com/dr-dark-flames/dr-dark-flames/assets/12224035/ce554e47-f01f-4f1d-ad59-cb8b4d83015d" alt="next-js" width="40" height="40"/>
+    <img src="https://github.com/aghyad-alghazawi/aghyad-alghazawi/assets/173650924/b39651ab-12a8-46b0-ab6a-12cec296ea05" alt="next-js" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/nodejs-3.svg" alt="node-js" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" alt="jquery" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="tailwindcss" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="framer-motion" width="40" height="40"/>
-    <img src="https://github.com/dr-dark-flames/dr-dark-flames/assets/12224035/d186b38e-8b98-46c5-9915-8843253ec307" alt="three.js" width="40" height="40"/>
+    <img src="https://github.com/aghyad-alghazawi/aghyad-alghazawi/assets/173650924/b0059cda-c65c-4516-afc3-ecb2e4762d59" alt="three.js" width="40" height="40"/>
 </p>
 
 <p align="left">
@@ -61,8 +61,8 @@ Apart from my tech pursuits, I lead a varied lifestyle. You can find me engaging
 
 <p align="left">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-    <img src="https://github.com/dr-dark-flames/dr-dark-flames/assets/12224035/63995e6f-8b6b-4c1d-a320-5f718dea1e5d" alt="unity" width="40" height="40"/>
-    <img src="https://github.com/dr-dark-flames/dr-dark-flames/assets/12224035/707c2112-2c8b-4dd7-a94b-76355392ad69" alt="unreal" width="40" height="40"/>
+    <img src="https://github.com/aghyad-alghazawi/aghyad-alghazawi/assets/173650924/61709d84-66e9-40b4-bd41-87af8a8466bc" alt="unity" width="40" height="40"/>
+    <img src="https://github.com/aghyad-alghazawi/aghyad-alghazawi/assets/173650924/4f13df2c-1897-4c2f-a42c-68275a2a1c8c" alt="unreal" width="40" height="40"/>
 </p>
 
 ## Projects
