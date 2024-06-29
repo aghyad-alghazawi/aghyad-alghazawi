@@ -73,7 +73,7 @@ Here are a few noteworthy projects I've worked on:
 
 2. **Cross-Platform App with React Native** - Built a cross-platform mobile application using React Native, providing a seamless user experience across iOS and Android platforms with a realtime database updates.
 
-3. **AI-Powered Discord Bot** - Created a comprehensive Discord bot powered by AI capabilities to have a human like chat with its users. Implemented various tools for image/audio manipulations, as well as, many tools and fun minigames/activites.
+3. **AI-Powered Discord Bot** - Created a comprehensive Discord bot powered by AI capabilities to have a human like chat with its users. Implemented various tools for image/audio manipulations, as well as, many tools and fun minigames/activities.
 
 4. **Social Media Automation** - Developed automation scripts in Python for automating various tasks on social media platforms, streamlining content management, posting automatically through all platforms and engagement processes.
 
