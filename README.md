@@ -1,4 +1,4 @@
-![abstract-fluid-liquid](https://github.com/aghyad-alghazawi/aghyad-alghazawi/assets/173650924/7f94c4db-b900-4600-a621-d587d3047522)
+![thumbnail](https://github.com/user-attachments/assets/d36790a7-1729-496e-bf03-d6eb6a63a197)
 
 # [Aghyad - Software Engineer](https://aghyad-alghazawi.github.io)
 
